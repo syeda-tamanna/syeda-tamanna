@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syeda-tamannat&show_icons=true&locale=en" alt="syeda-tamannat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syeda-tamannat&" alt="syeda-tamannat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syeda-tamanna&" alt="syeda-tamannat" /></p>
