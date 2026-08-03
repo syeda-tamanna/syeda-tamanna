@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syeda-tamanna&label=Profile%20views&color=0e75b6&style=flat" alt="syeda-tamanna" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syeda-tamanna" alt="syeda-tamanna" /></a> </p>
+<a href="...">
+  <img src="https://github-readme-streak-stats..." ... />
+</a>
 
 - 🌱 I’m currently learning **Networking, Linux & Web Security**
 
