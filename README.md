@@ -5,7 +5,8 @@
 
 
 
-- 🌱 I’m currently learning **Networking, Linux & Web Security**
+- 🌱 I’m currently learning **Networking,
+- **
 
 - 💬 Ask me about **Cybersecurity, TryHackMe, picoCTF**
 
